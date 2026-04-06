@@ -1,0 +1,11 @@
+setup.py
+metabot/__init__.py
+metabot/bot.py
+metabot/memory.py
+metabot/persona.py
+metabot/util.py
+metabot/utils.py
+metabot.egg-info/PKG-INFO
+metabot.egg-info/SOURCES.txt
+metabot.egg-info/dependency_links.txt
+metabot.egg-info/top_level.txt
